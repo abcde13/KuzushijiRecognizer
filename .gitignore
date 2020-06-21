@@ -1,0 +1,9 @@
+
+/train_images
+/test_images
+/runs
+/char_images
+/models
+/.ipynb_checkpoints
+/.~lock*
+/kuzushiji_venv

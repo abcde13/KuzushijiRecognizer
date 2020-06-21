@@ -1,0 +1,8 @@
+Possible incorrect labeling of characters.
+Examples:
+
+100241706_00004_2_17.jpg and 100241706_00010_2_66.jpg do not look like the others for U+306E
+
+Binarize images to remove possible background trace characters
+
+Create more images for samples less than 50 or 100
